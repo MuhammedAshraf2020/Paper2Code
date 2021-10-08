@@ -37,6 +37,7 @@ python train.py
 <p align="center">
     <img src="assets/val_alexnet.PNG" width="800"\>
 </p>
+
 ### Training Info
 <p align="center">
     <img src="assets/train_alexnet.PNG" width="800"\>
