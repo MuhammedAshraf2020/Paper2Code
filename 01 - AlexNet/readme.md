@@ -31,9 +31,15 @@ After installing the requirements, in order to train the model simply run:
 python train.py
 ```
 
-### Monitoring [Link](https://wandb.ai/muhammed266/AlexNet?workspace=user-muhammed266)
-
+## Monitoring 
+[wandb link](https://wandb.ai/muhammed266/AlexNet?workspace=user-muhammed266)
+### Validation Info
 <p align="center">
     <img src="assets/val_alexnet.PNG" width="800"\>
 </p>
+### Training Info
+<p align="center">
+    <img src="assets/train_alexnet.PNG" width="800"\>
+</p>
+
 
