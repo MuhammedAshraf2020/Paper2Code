@@ -34,6 +34,6 @@ python train.py
 ### Monitoring [Link](https://wandb.ai/muhammed266/AlexNet?workspace=user-muhammed266)
 
 <p align="center">
-    <img src="assets/val_alexnet.png" width="360"\>
+    <img src="assets/val_alexnet.PNG" width="360"\>
 </p>
 
