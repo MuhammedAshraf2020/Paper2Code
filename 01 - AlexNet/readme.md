@@ -22,3 +22,16 @@ Install the requirements:
 ```
 pip install -r requirements.txt
 ```
+
+### Training
+
+After installing the requirements, in order to train the model simply run:
+
+```
+python train.py
+```
+
+### Monitoring
+
+wandb link : [Link](https://wandb.ai/muhammed266/AlexNet?workspace=user-muhammed266)
+
