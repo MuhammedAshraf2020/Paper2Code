@@ -5,3 +5,20 @@ We trained a large, deep convolutional neural network to classify the 1.2 millio
 
 ## Research 
 You Can read the paper from [Here](https://www.nvidia.cn/content/tesla/pdf/machine-learning/imagenet-classification-with-deep-convolutional-nn.pdf)
+
+## Requirements:
+
+This project uses Python 3.9
+
+Create a virtual env with the following command:
+
+```
+conda create --name project-setup python=3.9
+conda activate project-setup
+```
+
+Install the requirements:
+
+```
+pip install -r requirements.txt
+```
