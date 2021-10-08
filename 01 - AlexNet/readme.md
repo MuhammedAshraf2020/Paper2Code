@@ -33,3 +33,7 @@ python train.py
 
 ### Monitoring [Link](https://wandb.ai/muhammed266/AlexNet?workspace=user-muhammed266)
 
+<p align="center">
+    <img src="../assets/fcgan.PNG" width="360"\>
+</p>
+
