@@ -31,7 +31,7 @@ After installing the requirements, in order to train the model update model conf
 ```
 
 ## Monitoring
-[wandb link](https://wandb.ai/muhammed266/vgg?workspace=user-muhammed266)
+[wandb link](https://wandb.ai/muhammed266/resnet?workspace=user-muhammed266)
 
 ### Training Info
 <p align="center">
