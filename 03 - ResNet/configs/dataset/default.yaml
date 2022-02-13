@@ -1,0 +1,2 @@
+train_data_path : "/content/seg_train/seg_train"
+valid_data_path : "/content/seg_test/seg_test"
