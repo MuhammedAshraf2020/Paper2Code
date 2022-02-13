@@ -34,7 +34,7 @@ def main(cfg):
 
     trainer = pl.Trainer(log_every_n_steps = cfg.training.log_every_n_steps , deterministic = cfg.training.deterministic , gpus = 1 , max_epochs = cfg.training.max_epochs , logger = wandb_logger ,
                             fast_dev_run = False , callbacks = [checkpoint_callback , early_stopping])
-    trainer.fit(Module , Data)
+    trainer.fit(Model , Data)
 
 if __name__ == "__main__":
     main()
