@@ -1,5 +1,5 @@
 
-#Paper2Code
+# aper2Code
 
 ## [ImageNet Classification with Deep Convolutional Neural Networks](https://github.com/MuhammedAshraf2020/Paper2Code/tree/main/01%20-%20AlexNet)
 
