@@ -4,7 +4,7 @@
 ## [ImageNet Classification with Deep Convolutional Neural Networks](https://github.com/MuhammedAshraf2020/Paper2Code/tree/main/01%20-%20AlexNet)
 
 <p align="center">
-    <img src="assets/alexnet.PNG" width="800"\>
+    <img src="assets/alexnet.png" width="800"\>
 </p>
 
 ### Abstract
@@ -17,7 +17,7 @@ You Can read the paper from [Here](https://www.nvidia.cn/content/tesla/pdf/machi
 ## [Very Deep Convolutional Networks for Large-Scale Image Recognition](https://github.com/MuhammedAshraf2020/Paper2Code/tree/main/02%20-%20VggNet)
 
 <p align="center">
-    <img src="assets/vgg.PNG" width="800"\>
+    <img src="assets/vgg.png" width="800"\>
 </p>
 
 ### Abstract
@@ -29,7 +29,7 @@ You Can read the paper from [Here](https://arxiv.org/abs/1409.1556)
 ## [Deep Residual Learning for Image Recognition](https://github.com/MuhammedAshraf2020/Paper2Code/tree/main/03%20-%20ResNet)
 
 <p align="center">
-    <img src="assets/resnet.PNG" width="800"\>
+    <img src="assets/resnet.png" width="800"\>
 </p>
 
 ### Abstract
