@@ -55,7 +55,7 @@ you can visualize attention of the sentence by running inference.py with the add
 
 
 ## Monitoring
-[wandb link](https://wandb.ai/muhammed266/attention-is-all-you-need?workspace=user-muhammed266)
+You can track all the training process from [here](https://wandb.ai/muhammed266/attention-is-all-you-need?workspace=user-muhammed266)
 
 ### Training Info
 <p align="center">
