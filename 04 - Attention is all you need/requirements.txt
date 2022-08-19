@@ -1,0 +1,4 @@
+torchtext==0.8
+einops
+torch==1.7.1
+hydra-core==1.1

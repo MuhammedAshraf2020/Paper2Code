@@ -1,0 +1,5 @@
+N_EPOCHS : 30
+LR : 0.0005
+CHECKPOINT_PATH : /content/checkpoint
+SEED : 1234
+BATCH_SIZE : 128
