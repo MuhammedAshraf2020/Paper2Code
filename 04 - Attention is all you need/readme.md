@@ -59,5 +59,5 @@ you can visualize attention of the sentence by running inference.py with the add
 
 ### Training Info
 <p align="center">
-    <img src="assets/train_info.jpg" width="800"\>
+    <img src="assets/training_info.jpg" width="800"\>
 </p>
