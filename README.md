@@ -38,7 +38,7 @@ Deeper neural networks are more difficult to train. We present a residual learni
 ### Research 
 You Can read the paper from [Here](https://arxiv.org/pdf/1512.03385.pdf)
 
-## [Attention is all you need](https://arxiv.org/abs/1706.03762?amp=1)
+## [Attention is all you need](https://github.com/MuhammedAshraf2020/Paper2Code/tree/main/04%20-%20Attention%20is%20all%20you%20need)
 
 <p align="center">
     <img src="assets/attention.png" width="800"\>
